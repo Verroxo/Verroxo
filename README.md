@@ -15,7 +15,13 @@ Meus objetivos levam a consideração de conseguir o máximo de aprendizado e co
 
 ## Onde tudo isso começou?
 
-Sou uma pessoa que se interessou por segurança da informação após uma experiência pessoal. Quando era jovem, acabei entrando no site da escola de ensino médio em que estudava, fui estudando formas e formas, e vi, que o site era de super facilidade pra mim de mudar qualquer nota ali presente, logo comuniquei a diretora, que o site onde estava o sistema escolar, tinha muitas formas de se penetrar e foi aí que eu ajudei a escola a obter a solução mediante o sistema. Embora essa ação não seja justificável, ela despertou em mim um interesse pela segurança da informação e seus desafios.
+Minha curiosidade pela segurança da informação começou após uma experiência pessoal que tive quando ainda era jovem. Durante meu tempo no ensino médio, acabei acessando o site da escola que frequentava e comecei a explorá-lo em busca de possíveis vulnerabilidades. Ao estudar o sistema cuidadosamente, descobri que era possível alterar facilmente as notas dos alunos sem deixar nenhum rastro.
+
+Diante dessa descoberta alarmante, decidi informar imediatamente a diretora da escola sobre as vulnerabilidades que havia identificado. Depois de uma análise mais aprofundada, descobrimos que o sistema de gerenciamento escolar tinha muitas brechas de segurança que precisavam ser corrigidas imediatamente.
+
+Foi então que decidi ajudar a escola a encontrar soluções para os problemas de segurança que havia identificado. Trabalhei com a equipe da escola para implementar medidas de segurança robustas e eficazes que tornaram o sistema escolar muito mais seguro.
+
+Embora eu não tenha agido corretamente ao acessar e alterar notas no sistema da escola (foram resetadas ao normal), essa experiência me ensinou muito sobre a importância da segurança da informação e despertou em mim um grande interesse pelos desafios dessa área. Desde então, tenho me dedicado a aprender mais sobre segurança da informação e trabalhado para ajudar outras organizações a proteger suas informações sensíveis contra ameaças externas.
 
 ![enter image description here](https://pbs.twimg.com/media/Fn68yV8XoAAJtLE?format=jpg&name=medium)
 
