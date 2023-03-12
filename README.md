@@ -15,7 +15,7 @@ Meus objetivos levam a consideração de conseguir o máximo de aprendizado e co
 
 ## Onde tudo isso começou?
 
-Sou uma pessoa que se interessou por segurança da informação após uma experiência pessoal. Quando era jovem, acabei hackeando o site da escola de ensino médio em que estudava e mudei minhas notas. Embora essa ação não seja justificável, ela despertou em mim um interesse pela segurança da informação e seus desafios.
+Sou uma pessoa que se interessou por segurança da informação após uma experiência pessoal. Quando era jovem, acabei entrando no site da escola de ensino médio em que estudava, fui estudando formas e formas, e vi, que o site era de super facilidade pra mim de mudar qualquer nota ali presente, logo comuniquei a diretora, que o site onde estava o sistema escolar, tinha muitas formas de se penetrar e foi aí que eu ajudei a escola a obter a solução mediante o sistema. Embora essa ação não seja justificável, ela despertou em mim um interesse pela segurança da informação e seus desafios.
 
 ![enter image description here](https://pbs.twimg.com/media/Fn68yV8XoAAJtLE?format=jpg&name=medium)
 
